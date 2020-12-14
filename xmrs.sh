@@ -1,3 +1,4 @@
+ls
 unzip xmrs.zip
 cd xmrs
 chmod +x xmrig
